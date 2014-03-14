@@ -1,0 +1,46 @@
+
+p.button-text {
+	text-align: center;
+	font-weight: bold;
+	height: 130px;
+	width: 130px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+header {
+	background: url('../img/banner.png') no-repeat center top;
+	height: 230px;
+}
+
+div.button {
+	float: left;
+}
+div a {
+	margin: 0 auto;
+}
+
+
+img.button {
+	width: 130px;
+	margin: 0 auto;
+	display: block;
+}
+
+header h1 {
+	text-align: center;
+	color: white;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 900px;
+}
+
+footer {
+	margin-top: 100px;
+}
+
+.share-row {
+	height: 40px;
+}
